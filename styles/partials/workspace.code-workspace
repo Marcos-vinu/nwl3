@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\images"
+		},
+		{
+			"path": "..\\..\\scripts"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "styles"
+	}
+}

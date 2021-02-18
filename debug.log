@@ -1,0 +1,9 @@
+[0821/212029.333:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\santo\AppData\Local\Microsoft\Edge\User Data\Crashpad\reports\6f7830ac-1404-4ff7-8a1c-b06310da77ee.dmp: O arquivo já está sendo usado por outro processo. (0x20)
+[0821/212036.698:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: O pipe foi finalizado. (0x6D)
+[0821/212037.793:ERROR:crashpad_client_win.cc(132)] crash server failed to launch
+[0821/212052.950:ERROR:minidumpwritedump_with_crashpad_info.cc(435)] Failed to call MiniDumpWriteDump: Espaço insuficiente no disco. (0x80070070)
+[0821/212052.950:ERROR:minidumpwritedump_with_crashpad_info.cc(592)] Failed to write minidump file
+[0821/212052.950:ERROR:crash_report_exception_handler.cc(132)] TryMiniDumpWriteDumpWithCrashpadInfo failed
+[0821/212053.035:ERROR:file_io.cc(134)] WriteFile: Espaço insuficiente no disco. (0x70)
+[0821/212053.035:ERROR:crash_report_exception_handler.cc(142)] WriteEverything failed
+[0821/212053.035:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\santo\AppData\Local\Microsoft\Edge\User Data\Crashpad\reports\0d9d0d2c-6e74-4b7f-90e8-ae395673074c.dmp: O arquivo já está sendo usado por outro processo. (0x20)
